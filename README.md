@@ -23,11 +23,9 @@ Two-Link-Robot-Kinematics/
 │
 ├── two_link_arm.py
 ├── jacobian_ik.py
-├── images/
-│   └── ik_demo.png
+├── jacobian_ik_demo.png
 ├── README.md
-├── requirements.txt
-└── LICENSE
+├── forward_kinematics_demo.png
 ```
 
 ## Methodology
