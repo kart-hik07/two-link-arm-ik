@@ -1,7 +1,7 @@
 # Two-Link Arm Kinematics
 
 <p align="center">
-  <img src="images/jacobian_ik_demo.png" width="650">
+  <img src="jacobian_ik_demo.png" width="650">
 </p>
 
 <p align="center">
